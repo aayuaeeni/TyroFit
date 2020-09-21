@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680078210039",
+    "firebase_url": "https://tyrofit-7dff9.firebaseio.com",
+    "project_id": "tyrofit-7dff9",
+    "storage_bucket": "tyrofit-7dff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680078210039:android:d69954260171a6073234f2",
+        "android_client_info": {
+          "package_name": "com.raju.tyrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680078210039-gtkc23uqgmtc8u7gf07ne2s0fgok6ihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrkvKRqJhrepZRZkM-YueLuQ5jzYHc-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680078210039-gtkc23uqgmtc8u7gf07ne2s0fgok6ihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
